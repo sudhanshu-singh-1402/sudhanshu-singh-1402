@@ -27,7 +27,19 @@ This is my work account, so most of what I build here lives in private repos. Th
 
 <br />
 
-<img src="https://raw.githubusercontent.com/sudhanshu1402/sudhanshu1402/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudhanshu1402/sudhanshu1402/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudhanshu1402/sudhanshu1402/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sudhanshu1402/sudhanshu1402/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+## Activity on this work account
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sudhanshu-singh-1402/sudhanshu-singh-1402/main/metrics.svg" alt="Work account GitHub metrics" width="480" />
 
 </div>
 
