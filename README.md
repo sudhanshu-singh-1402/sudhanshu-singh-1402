@@ -41,11 +41,11 @@ This is my work account, so most of what I build here lives in private org repos
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/sudhanshu-singh-1402/sudhanshu-singh-1402/main/metrics.svg" alt="Work account activity: commits and pull requests opened" width="480" />
+**800+ commits** and **570+ pull requests** in the last year, almost all in private Testlify org repos.
 
 </div>
 
-<sub align="center">Almost everything I ship at Testlify is in private org repos. GitHub still counts those contributions, so the calendar and the commit and PR numbers above are real. They just don't link to public code.</sub>
+<sub align="center">GitHub counts private-repo contributions, so the calendar and the numbers above are real. They just don't link to public code, because that code is in private org repos.</sub>
 
 > Most of what I ship at Testlify is in private repos, so the code you can actually read lives on my personal account. Open source, npm packages, my portfolio, and system design writeups are all there: **[@sudhanshu1402](https://github.com/sudhanshu1402)**.
 
