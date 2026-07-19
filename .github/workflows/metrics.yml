@@ -19,6 +19,6 @@ jobs:
           filename: metrics.svg
           user: sudhanshu-singh-1402
           template: classic
-          base: header, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Asia/Kolkata
-          config_order: base.header, base.repositories
+          config_order: base.header, base.activity, base.repositories
