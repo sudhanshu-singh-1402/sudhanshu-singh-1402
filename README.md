@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sudhanshu1402"><img src="https://img.shields.io/badge/Personal%20GitHub-0a0c10?style=for-the-badge&logo=github&logoColor=6ea8fe" alt="Personal GitHub" /></a>
 <a href="https://www.npmjs.com/package/@sudhanshu1402/keel"><img src="https://img.shields.io/badge/keel%20on%20npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="keel on npm" /></a>
-<a href="https://sudhanshu1402.github.io"><img src="https://img.shields.io/badge/Portfolio-0a0c10?style=for-the-badge&logo=githubpages&logoColor=6ea8fe" alt="Portfolio" /></a>
+<a href="https://sudhanshu1402.github.io"><img src="https://img.shields.io/badge/Portfolio-0a0c10?style=for-the-badge&logo=googlechrome&logoColor=6ea8fe" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sudhanshusingh1402/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -20,6 +20,12 @@ Backend engineer at Testlify since Nov 2023. I work on job orchestration, enterp
 This is my work account, so most of what I build here lives in private org repos. The open source I can actually show you, my portfolio, and the system design work all sit on my personal account.
 
 ## Tech I work with at Testlify
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mongodb,redis,postgres,aws,gcp,azure,docker,grafana,prometheus" alt="Core stack" />
+
+</div>
 
 | | |
 | :-- | :-- |
@@ -37,7 +43,7 @@ This is my work account, so most of what I build here lives in private org repos
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/6ea8fe/sudhanshu-singh-1402" alt="Work account contribution calendar" width="760" />
+<img src="https://ghchart.rshah.org/sudhanshu-singh-1402" alt="Work account contribution calendar" width="760" />
 
 <br /><br />
 
