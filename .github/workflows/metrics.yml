@@ -19,8 +19,6 @@ jobs:
           filename: metrics.svg
           user: sudhanshu-singh-1402
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          config_order: base.header, isocalendar, base.activity, base.repositories
+          config_order: base.header, base.activity
